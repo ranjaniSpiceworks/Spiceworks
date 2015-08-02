@@ -18,6 +18,6 @@ Future Enhancements:
 
 This is a simple Automation test suite designed to check some features in the Spiceworks community page.
 
-This testsuite right now is designed with the DOM elements and data defined as mutli-dimesion array in the same suite. Further improvements can be done by creating a framework to run by a particular testcase, create config files to run on different browsers, environment  etc can be done.
+This testsuite right now is designed with the DOM elements and data defined as mutli-dimesion array in the same suite. Further improvements can be done by creating a framework to run by a particular testcase, create config files to run on different browsers, environment  etc, maintaining separate UImaps for each page, creating data files etc.
 
 
